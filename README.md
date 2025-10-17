@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Carlos Alexandre and I'm a back-end developer, from Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Carlos Alexandre and I'm a back-end developer, from Brazil. Especialista em introdução de objetos no C#</h2>
 
 ###
 
